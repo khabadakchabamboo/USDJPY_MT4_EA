@@ -6,8 +6,8 @@
 #property version "1.05"
 #include "..\JP225_MT4_EA\Common\ProfitProtector_MT4.mqh"
 #include "..\JP225_MT4_EA\Common\GV_Lease.mqh"
-#include "MinimumShuffle_Config.mqh"
-#include "MinimumShuffle_History.mqh"
+#include "USDJPY_MinimumShuffle_Config.mqh"
+#include "USDJPY_MinimumShuffle_History.mqh"
 
 #property description "One minimum-size USDJPY position; last-fill movement signals."
 #property description "JPY account only. No initial loss SL; common account-wide profit protection."
